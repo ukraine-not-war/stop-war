@@ -3,7 +3,7 @@ You should include next code to the end of the tag body.
 If you need multiple language widget you should replace 'en' in ... ```myCompanyApi.init('en');``` ... to site language. Now available english (en), ukrainian ('ua') and russian ('ru') languages.
 
 ## Как установить
-Вы должны включить следующий код в конец тега body.
+Вы должны добавить следующий код в конец тега body.
 Если вам нужен мультиязычный виджет, вы должны заменить 'en' в ... ```myCompanyApi.init('en');``` ... на язык сайта. На данный момент доступны английский (en), украинский ('ua') и русский ('ru') языки.
 
 ## Як встановити
