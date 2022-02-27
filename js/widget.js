@@ -73,7 +73,7 @@ class NoWarUkraine {
         modal.setAttribute('id', 'modal-' + id);
         document.body.prepend(button);
         document.body.prepend(modal);
-        button.style.cssText = 'position:fixed;top:100px;right:-12px;z-index:1000;width:100px;height:80px';
+        button.style.cssText = 'position:fixed;top:100px;right:-12px;z-index:1000;width:100px;height:80px;cursor:pointer';
         // button.innerHTML = `<div>Nest</div>`;
         modal.style.cssText = 'display: none;position: fixed;z-index: 1001;padding-top: 100px;left: 0;top: 0;width: 100%;height: 100%;overflow: auto;background-color: rgb(0,0,0);background-color: rgba(0,0,0,0.7)';
         modal.innerHTML = ` 
