@@ -63,3 +63,45 @@ If you need multiple language widget you should replace 'en' in ... ```myCompany
 ```
 
 Якщо вам потрібен віджет для різних мовних версій сайту, ви повинні замінити 'en' в ... ```myCompanyApi.init('en');``` ... на мову сайту. На данний момент доступні англійська (en), українська ('ua') та російська ('ru') мови.
+
+## ¿Como instalarlo?
+Incluye el siguiente snippet de código al final del body tag:
+
+```html
+<script src="https://ukraine-not-war.github.io/stop-war/js/widget.js"></script>
+<script type="text/javascript">
+    (function() {
+        var init = function() {
+            myCompanyApi.init('en');
+        };
+        if (typeof myCompanyApi !== 'undefined') {
+            init();
+        } else {
+            (myCompanyApiInitCallbacks = window.myCompanyApiInitCallbacks || []).push(init);
+        }
+    })();
+</script>
+```
+
+Si necesitas el widget en múltiples lenguas, cambia 'en' en ```myCompanyApi.init('en');``` por la lengua que necesites. Por ahora disponible en inglés ('en'), ucraniano ('ua'), ruso ('ru'), español ('es') y catalán ('ca').
+
+## Com instal·lar-ho?
+Inclou el seguent snippet de codi al final del body tag:
+
+```html
+<script src="https://ukraine-not-war.github.io/stop-war/js/widget.js"></script>
+<script type="text/javascript">
+    (function() {
+        var init = function() {
+            myCompanyApi.init('en');
+        };
+        if (typeof myCompanyApi !== 'undefined') {
+            init();
+        } else {
+            (myCompanyApiInitCallbacks = window.myCompanyApiInitCallbacks || []).push(init);
+        }
+    })();
+</script>
+```
+
+Si necesites el widget en múltiples idiomes, canvia 'en' a ```myCompanyApi.init('en');``` por la llengüa que necessitis. Per ara disponible en anglès ('en'), ucraïnià ('ua'), rus ('ru'), castellà ('es') i català ('ca').
