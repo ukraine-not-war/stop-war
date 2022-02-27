@@ -42,6 +42,44 @@ class NoWarUkraine {
                 ✅ Допоможіть Україні, розмістивши на своєму сайті цей віджет <br>
                 <a style=${linkStyles} href="https://github.com/ukraine-not-war/stop-war">https://github.com/ukraine-not-war/stop-war</a > <br>
                 Будьте з Україною!`;
+            case 'es':
+                return `Rusia ha empezado la invasión de Ucrania. <br>
+                El ataque a Ucrania ya ha empezado, hay batallas en las grandes ciudades y civiles están sufriendo. ¡Por favor, apoya a Ucrania!<br>
+                ✅ ¿COMO PUEDES AYUDAR? Lo más importante que puedes hacer es leer y compartir información verificada sobre el ataque de Rusia a Ucrania. <br>
+                🔹 Presidente de Ucrania <br>
+                Web: <a style=${linkStyles} href="https://www.president.gov.ua/en">https://www.president.gov.ua/en</a><br>
+                Twitter: <a style=${linkStyles} href="https://twitter.com/ZelenskyyUa">https://twitter.com/ZelenskyyUa</a>  <br>
+                Facebook: <a style=${linkStyles} href="https://www.facebook.com/zelenskiy.official">https://www.facebook.com/zelenskiy.official</a>  <br>
+                🔹 Cuentas oficiales de Ucrania en las redes sociales <br>
+                Facebook: <a style=${linkStyles} href="https://www.facebook.com/UkraineUA.MFA">https://www.facebook.com/UkraineUA.MFA</a>  <br>
+                Instagram: <a style=${linkStyles} href="https://www.instagram.com/ukraine.ua/">https://www.instagram.com/ukraine.ua/</a> <br>
+                
+                🔹 Embajada de Ucrania en tu país (Web, Facebook & Twitter) <br>
+                ✅ Ayuda a defender Ucrania — haz un donativo a una de las ONGs más conocidas del país — <a style=${linkStyles} href="https://savelife.in.ua/en/donate/">https://savelife.in.ua/en/donate/</a> <br>
+                
+                ✅ Ayuda a defender Ucrania — haz un donativo al fondo establecido por el Banco Central de Ucrania <a style=${linkStyles} href="http://surl.li/blnsy">http://surl.li/blnsy</a> <br>
+                ✅ Instala este widget en tu página web <br>
+                <a style=${linkStyles} href="https://github.com/ukraine-not-war/stop-war">https://github.com/ukraine-not-war/stop-war</a > <br>
+                ¡Apoya Ucrania!`;
+            case 'ca':
+                return `Rússia ha començat la invasió d'Ucraïna. <br>
+                L'atac a Ucraïna ha començat, hi ha batalles a les majors ciutats i la població civil està sufrint. Si us plau, dona suport a Ucraïna!<br>
+                ✅ COM POTS AJUDAR? El més important és llegir i compartir informació verificada sobre l'atac de Rússia a Ucraïna. <br>
+                🔹 President d'Ucraïna <br>
+                Web: <a style=${linkStyles} href="https://www.president.gov.ua/en">https://www.president.gov.ua/en</a><br>
+                Twitter: <a style=${linkStyles} href="https://twitter.com/ZelenskyyUa">https://twitter.com/ZelenskyyUa</a>  <br>
+                Facebook: <a style=${linkStyles} href="https://www.facebook.com/zelenskiy.official">https://www.facebook.com/zelenskiy.official</a>  <br>
+                🔹 Comptes oficials d'Ucraïna a les xarxes socials <br>
+                Facebook: <a style=${linkStyles} href="https://www.facebook.com/UkraineUA.MFA">https://www.facebook.com/UkraineUA.MFA</a>  <br>
+                Instagram: <a style=${linkStyles} href="https://www.instagram.com/ukraine.ua/">https://www.instagram.com/ukraine.ua/</a> <br>
+                
+                🔹 Embaixada d'Ucraïna al teu país (Web, Facebook & Twitter) <br>
+                ✅ Ajuda a defensar Ucraïna — fes un donatiu a una de les ONGs més conegudes del país — <a style=${linkStyles} href="https://savelife.in.ua/en/donate/">https://savelife.in.ua/en/donate/</a> <br>
+                
+                ✅ Ajuda a defensar Ucraïna — fes un donatiu al fons establert pel Banc Central d'Ucraïna <a style=${linkStyles} href="http://surl.li/blnsy">http://surl.li/blnsy</a> <br>
+                ✅ Instal·la aquest widget a la teva web <br>
+                <a style=${linkStyles} href="https://github.com/ukraine-not-war/stop-war">https://github.com/ukraine-not-war/stop-war</a > <br>
+                Dona suport a Ucraïna!`;
             default:
                 return `Russia has started a full-scale war with Ukraine. <br>
                 They have already began their attack on Ukraine, all major cities are under fire, civilians are suffering. Please, Stand with Ukraine!<br>

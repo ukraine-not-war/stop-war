@@ -22,7 +22,7 @@ You should include next code to the end of the tag body:
 </script>
 ```
 
-If you need multiple language widget you should replace 'en' in ... ```myCompanyApi.init('en');``` ... to site language. Now available english (en), ukrainian ('ua') and russian ('ru') languages.
+If you need multiple language widget you should replace 'en' in ... ```myCompanyApi.init('en');``` ... to site language. Now available english (en), ukrainian ('ua'), russian ('ru'), spanish ('es') and catalan ('ca') languages.
 
 ## Как установить
 Вы должны добавить следующий код в конец тега body:
