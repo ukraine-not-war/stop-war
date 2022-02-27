@@ -111,9 +111,9 @@ class NoWarUkraine {
  * Основной класс Api
  */
 class Api {
-    init() {
+    init(lang='en') {
         const widget = new NoWarUkraine(this);
-        widget.init();
+        widget.init(lang);
         return widget;
     }
 
