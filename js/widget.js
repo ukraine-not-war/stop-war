@@ -85,7 +85,7 @@ class NoWarUkraine {
           border: 1px solid #888;
           width: 80%;
           font-size: 14px;
-          max-width: 350px;
+          max-width: 600px;
           word-break: break-word;
           max-height: 90%;
           font-family:Garamond, Sans-serif;">
