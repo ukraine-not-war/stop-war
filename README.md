@@ -1,3 +1,8 @@
+## Widget
+![widget](https://user-images.githubusercontent.com/669491/155887523-e32959dc-db97-44e7-89c6-aeb07e8689a3.svg)
+![widget2](https://user-images.githubusercontent.com/669491/155887594-9abe850d-7ce7-46af-b9ae-4e72b4c4e207.jpg)
+
+
 ## How to install
 You should include next code to the end of the tag body:
 
