@@ -87,7 +87,7 @@ class NoWarUkraine {
           font-size: 14px;
           max-width: 350px;
           word-break: break-word;
-          max-height: 80%;
+          max-height: 90%;
           font-family:Garamond, Sans-serif;">
             <span id="close-modal-${id}" style="color: #aaaaaa;
           float: right;
