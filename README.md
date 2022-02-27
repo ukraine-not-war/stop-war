@@ -9,8 +9,8 @@ If you need multiple language widget you should replace 'en' in ... ```myCompany
 ## Як встановити
 Вам необхідно додати наступний код перед закінченням тегу body.
 Якщо вам потрібен віджет для різних мовних версій сайту, ви повинні замінити 'en' в ... ```myCompanyApi.init('en');``` ... на мову сайту. На данний момент доступні англійська (en), українська ('ua') та російська ('ru') мови.
-```<script src="https://ukraine-not-war.github.io/stop-war/js/widget.js"></script>
-    <script type="text/javascript">
+```<script src="https://ukraine-not-war.github.io/stop-war/js/widget.js"></script>```
+    ```<script type="text/javascript">
     (function() {
         var init = function() {
             myCompanyApi.init('en');
