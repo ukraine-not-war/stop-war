@@ -37,7 +37,7 @@ class NoWarUkraine {
                 Facebook: <a style=${linkStyles} href="https://www.facebook.com/UkraineUA.MFA">https://www.facebook.com/UkraineUA.MFA</a> <br>
                 Instagram: <a style=${linkStyles} href="https://www.instagram.com/ukraine.ua/">https://www.instagram.com/ukraine.ua/</a> <br>
                 🔹 Посольство України у вашій країні (Web, Facebook та Twitter) <br>
-                ✅Допоможіть захистити Україну — надішліть кошти до головного благодійного фонду України — <a style=${linkStyles} href="https://savelife.in.ua/ua/donate/">https://savelife.in.ua/ua/пожертвувати/</a> <br>
+                ✅Допоможіть захистити Україну — надішліть кошти до головного благодійного фонду України — <a style=${linkStyles} href="https://savelife.in.ua/donate/">https://savelife.in.ua/пожертвувати/</a> <br>
                 ✅ Допоможіть захистити Україну — надішліть кошти до фонду Національного банку України - <a style=${linkStyles} href="http://surl.li/blnsy">http://surl.li/blnsy</a><br>
                 ✅ Допоможіть Україні, розмістивши на своєму сайті цей віджет <br>
                 <a style=${linkStyles} href="https://github.com/ukraine-not-war/stop-war">https://github.com/ukraine-not-war/stop-war</a > <br>
