@@ -130,7 +130,8 @@ class NoWarUkraine {
             <span id="close-modal-${id}" style="color: #aaaaaa;
           float: right;
           font-size: 28px;
-          font-weight: bold;">&times;</span>
+          font-weight: bold;
+          overflow-y:scroll;">&times;</span>
         ${this.setModalContent(lang)}
           </p>`;
         button.addEventListener('click', function () {
